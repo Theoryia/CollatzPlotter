@@ -1,4 +1,4 @@
-const num = 13;
+const num = 495; //pick start number here
 const createCsvWriter = require("csv-writer").createObjectCsvWriter;
 const csvWriter = createCsvWriter({
   path: `data${num}.csv`,
