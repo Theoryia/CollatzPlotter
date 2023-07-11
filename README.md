@@ -1,4 +1,6 @@
 # CollatzPlotter
+
+(NO FRONT END) 
 Test program for the use of seaborn implemented with a Collatz conjecture algorithm
 
 npm i 
